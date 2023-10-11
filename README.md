@@ -1,0 +1,1 @@
+# common_class_project_mobile
