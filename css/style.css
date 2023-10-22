@@ -78,6 +78,7 @@ li {
     font-size: 1.2em;
     line-height: 2;
     margin: 0 auto;
+    text-align: center;
 }
 
 h2 {
@@ -93,7 +94,7 @@ h3 {
 
 .container div{
     display: grid;
-    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-columns: 1fr 3fr 1fr;
     grid-gap: 10px;
     padding: 10px;
     overflow: auto;
@@ -171,6 +172,7 @@ footer {
     display: inline-block;
     padding-bottom: 3em;
     font-size: 0.75em;
+    margin-left: 1em;
 }
 
 ol {
