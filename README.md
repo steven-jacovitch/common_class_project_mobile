@@ -1,6 +1,6 @@
 # Common Class Project
 This project creates a practice website showing pets, recipes, and locations. The focus of this project was the mobile view of the website. 
-# What I learned
+# What I Practiced
 * How to utilize grid to maintain consistent format
 * Using responsive web design to adjust layout to different screen sizes
 * Creating navigation between pages
